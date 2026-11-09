@@ -1,0 +1,2 @@
+# nuxt-site
+dnsmasq config
